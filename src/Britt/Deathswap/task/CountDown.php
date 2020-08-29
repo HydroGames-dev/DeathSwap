@@ -9,7 +9,7 @@
 */
 declare(strict_types=1);
 
-namespace Britt\DeathSwap\Task;
+namespace Britt\DeathSwap\task;
 
 use pocketmine\entity\Effect;
 use pocketmine\entity\EffectInstance;
