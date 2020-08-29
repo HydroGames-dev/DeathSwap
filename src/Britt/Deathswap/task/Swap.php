@@ -9,7 +9,7 @@
 */
 declare(strict_types=1);
 
-namespace Britt\DeathSwap\Task;
+namespace Britt\DeathSwap\task;
 
 use pocketmine\math\Vector3;
 use pocketmine\scheduler\ClosureTask;
