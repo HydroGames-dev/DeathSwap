@@ -20,8 +20,8 @@ use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat;
 use Britt\DeathSwap\commands\DeathSwapCommand;
-use Britt\DeathSwap\Task\Swap;
-use Britt\DeathSwap\Task\CountDown;
+use Britt\DeathSwap\task\Swap;
+use Britt\DeathSwap\task\CountDown;
 use pocketmine\utils\TextFormat as TF;
 
 class Main extends PluginBase  implements Listener 
